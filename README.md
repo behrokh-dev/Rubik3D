@@ -9,7 +9,7 @@ This project showcases a fully-animated 3D cube using only modern web technologi
 Try it live here:  
 👉 https://behrokh-dev.github.io/Rubik3D/
 
-## 🧱 Features
+## 🧾 Features
 
 -  **3D Rubik’s Cube visualization**
 -  Built with **HTML5** and **CSS3** only
@@ -25,6 +25,8 @@ The 3D cube is created using:
 - **CSS 3D transforms**
 - **Perspective and rotation**
 - **Nested elements for cube faces**
+
+
 
 Each face of the cube is positioned and rotated in 3D space using CSS, and the container uses perspective to simulate 3D depth.
 
