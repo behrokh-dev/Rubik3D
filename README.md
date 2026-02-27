@@ -34,11 +34,20 @@ This project uses:
 
 - **HTML5**
 - **CSS3 (including transforms and animations)**
+---
 
-## 📌 Usage
+## 👩‍💻 Developed With
 
-You can clone or download this repo and open `index.html` in any modern browser to explore the 3D Rubik’s Cube demo.
+This project is built using **HTML** and **CSS**, making it lightweight and easy to extend.
 
-## 📝 License
+---
 
-Feel free to use and modify this demo for personal or educational purposes.
+## 🤝 Contribution
+
+Contributions, suggestions, and creative ideas are always welcome — whether it's styling, accessibility, or adding new features.
+
+---
+
+## 📜 License
+
+If you decide to add a license, include it here (e.g., MIT License).
