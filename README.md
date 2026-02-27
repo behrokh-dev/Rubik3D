@@ -11,11 +11,11 @@ Try it live here:
 
 ## 🧱 Features
 
-- 🔹 **3D Rubik’s Cube visualization**
-- 🔹 Built with **HTML5** and **CSS3** only
-- 🔹 Smooth animations and transformations
-- 🔹 Fully responsive and lightweight
-- 🔹 No JavaScript or frameworks
+-  **3D Rubik’s Cube visualization**
+-  Built with **HTML5** and **CSS3** only
+-  Smooth animations and transformations
+-  Fully responsive and lightweight
+-  No JavaScript or frameworks
 
 ---
 ## 💡 How It Works
