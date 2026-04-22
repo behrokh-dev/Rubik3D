@@ -9,6 +9,10 @@ This project showcases a fully-animated 3D cube using only modern web technologi
 Try it live here:  
 👉 https://behrokh-dev.github.io/Rubik3D/
 
+![Image](https://github.com/user-attachments/assets/c9341b07-7eda-4b9a-8dda-4a06f039db2c)
+
+---
+
 ## 🧾 Features
 
 -  **3D Rubik’s Cube visualization**
@@ -19,8 +23,6 @@ Try it live here:
 
 ---
 ## 💡 How It Works
-
-![Image](https://github.com/user-attachments/assets/c9341b07-7eda-4b9a-8dda-4a06f039db2c)
 
 The 3D cube is created using:
 
